@@ -54,8 +54,6 @@ plt.show()
 # Display summary
 category_summary.reset_index().head(10)
 
-     
-Upload widget is only available when the cell has been executed in the current browser session. Please rerun this cell to enable.
 Saving googleplaystore.csv to googleplaystore (2).csv
 Columns in the dataset: Index(['App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type',
        'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver',
