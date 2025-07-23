@@ -54,7 +54,6 @@ plt.show()
 # Display summary
 category_summary.reset_index().head(10)
 
-Saving googleplaystore.csv to googleplaystore (2).csv
 Columns in the dataset: Index(['App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type',
        'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver',
        'Android Ver'],
