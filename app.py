@@ -5,8 +5,7 @@ import matplotlib.pyplot as plt
 st.title("📊 Google Play Store Data Explorer")
 
 # Load CSV from GitHub
-url = "https://raw.githubusercontent.com/your-username/your-repo/main/googleplaystore.csv"
-
+url = "https://raw.githubusercontent.com/karishma-Muthina/Mini-Projects/refs/heads/main/googleplaystore%20(2).csv"
 try:
     df = pd.read_csv(url)
     st.success("✅ CSV loaded successfully!")
